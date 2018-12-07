@@ -1,20 +1,21 @@
-body{
-    max-width: 80%;
-    margin: 0 auto;
 
-}
 header{
     display:float;
+    background-color: black;
+    height: 60px;
 }
 
 h1{
     color: blueviolet;
-    background:grey;
+    
     padding-top:10px;
-    border: solid 1px grey
-    margin-top:0px
-    float:left;
+    
+    margin-top: 0px;
+    float:  left;
     width: 25%;
+}
+.top{
+    background-color: brown;
 }
 ul,
 ol{
@@ -24,19 +25,30 @@ ol{
 a
 {
 text-decoration: aqua;
-color: aliceblue;
+color: navy;
+
 }
 nav li{
 
   display:inline-block;
   margin-right:15px;
-  padding: 5px;  
+  padding: 5px;
+    margin-top: 15px;
 }
-.container{
-    background-color: blue;
+#container{
+    max-width: width auto;
+    background-color:brown;
+    padding: 40px;
+    height: 510px;
+
+    
 
 }
-#main section{
+#footer{
+background-color: black;
+color: white;
+text-align: center;
+height: 150px;
 
 
 
@@ -50,7 +62,7 @@ nav li{
     width:30%;
 
 }
-#right section{
 
-
+#nav{
+    background-color: red;
 }
