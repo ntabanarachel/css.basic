@@ -1,0 +1,56 @@
+body{
+    max-width: 80%;
+    margin: 0 auto;
+
+}
+header{
+    display:float;
+}
+
+h1{
+    color: blueviolet;
+    background:grey;
+    padding-top:10px;
+    border: solid 1px grey
+    margin-top:0px
+    float:left;
+    width: 25%;
+}
+ul,
+ol{
+
+    list-style: none;
+}
+a
+{
+text-decoration: aqua;
+color: aliceblue;
+}
+nav li{
+
+  display:inline-block;
+  margin-right:15px;
+  padding: 5px;  
+}
+.container{
+    background-color: blue;
+
+}
+#main section{
+
+
+
+
+}
+
+
+#left section{
+    border: 2px;
+    float: left;
+    width:30%;
+
+}
+#right section{
+
+
+}
